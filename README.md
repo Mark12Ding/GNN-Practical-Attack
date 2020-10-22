@@ -24,7 +24,7 @@ Example command to run the code: `python main.py --dataset cora --model JKNetMax
 ```
 @inproceedings{ma2020practical,
   title={Towards More Practical Adversarial Attacks on Graph Neural Networks},
-  author={Ma, Jiaqi and Ding, Shuangtui and Mei, Qiaozhu},
+  author={Ma, Jiaqi and Ding, Shuangrui and Mei, Qiaozhu},
   booktitle={Advances in Neural Information Processing Systems},
   year={2020}
 }
