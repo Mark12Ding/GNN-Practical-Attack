@@ -10,6 +10,8 @@ Jiaqi Ma\*, Shuangrui Ding\*, and Qiaozhu Mei. NeurIPS 2020.
 
 A previous version of this paper is appeared with the title *Black-Box Adversarial Attacks on Graph Neural Networks with Limited Node Access*.
 
+**Update**: The reader is encouraged to look at [this repo](https://github.com/TheaperDeng/GNN-Attack-InfMax), which is [a follow-up work published in WSDM 2022](https://arxiv.org/abs/2106.10785). This follow-up work has an improved experiment setup as well as a full implementation of RWCS and GC-RWCS.
+
 ## Requirements
 - dgl 0.4.2
 - torch 1.4.0    
